@@ -1,7 +1,8 @@
 # Python classes
 
-''' Free Range         """" Added change to this fie dir CLASS"""""
-Classes provide a means of bundling data and functionality together. Creating a 
+''' Free Range         """" Added change to this fie dir CLASS""""" Changes made to Merge """""
+C:::::::::::::::::: SOME TEXT CHANGE """"""""
+lasses provide a means of bundling data and functionality together. Creating a 
 new class creates a new type of object, allowing new instances of that type to be 
 made.
 
